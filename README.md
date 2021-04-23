@@ -3,6 +3,8 @@
 # MicroReddit
 A small project implementing ActiveRecord to make a MicroReddit with users, posts and comments.
 
+![screenshot](img/screenshot.jpg)
+
 
 ## Built With
 
